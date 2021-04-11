@@ -1,0 +1,8 @@
+# Important: all URLs must have a trailing slash!
+- text: Home
+  url: /
+- text: Linux Command
+  url: https://4ku5t1n0.cloud/Linux%20Command
+  subitems:
+    - text: Search Files Cheatsheet
+      url: https://4ku5t1n0.cloud/Linux%20Command/Search%20Files%20Cheatsheet
