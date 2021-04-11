@@ -1,3 +1,7 @@
+---
+layout: default
+title: Finding/Searching files with locate, which, find 
+---
 # Locate
 Search through database locate.db (Quick)
 ```
